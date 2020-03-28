@@ -1,7 +1,7 @@
 extends KinematicBody2D
 
 export(float) var dampening: float = 0.9
-export(int) var speed: int = 800
+export(int) var speed: int = 1600
 
 var vel: Vector2 = Vector2.ZERO
 
